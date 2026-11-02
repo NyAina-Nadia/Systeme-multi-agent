@@ -1,0 +1,109 @@
+{
+  "agences": [
+    {
+      "agence": "Antananarivo",
+      "fichier": "agence_antananarivo.csv",
+      "sep": ",",
+      "feuille": null,
+      "format_date": "%d/%m/%Y",
+      "multiplicateur": 1,
+      "objectif": 1660000000,
+      "mapping": {
+        "date": "date",
+        "produit": "produit",
+        "categorie": "categorie",
+        "quantite": "quantite",
+        "prix_unitaire": "prix_unitaire",
+        "montant": "montant",
+        "client": "client",
+        "commercial": "commercial"
+      },
+      "ville": "Antananarivo",
+      "responsable": "À définir"
+    },
+    {
+      "agence": "Toamasina",
+      "fichier": "agence_toamasina.csv",
+      "sep": ",",
+      "feuille": null,
+      "format_date": "%Y-%m-%d",
+      "multiplicateur": 1,
+      "objectif": 832000000,
+      "mapping": {
+        "date": "date_vente",
+        "produit": "article",
+        "categorie": "famille",
+        "quantite": "qte",
+        "prix_unitaire": "pu",
+        "montant": "total_ligne",
+        "client": "nom_client",
+        "commercial": "vendeur"
+      },
+      "ville": "Toamasina",
+      "responsable": "À définir"
+    },
+    {
+      "agence": "Fianarantsoa",
+      "fichier": "agence_fianarantsoa.xlsx",
+      "sep": null,
+      "feuille": "Ventes",
+      "format_date": "%d/%m/%Y",
+      "multiplicateur": 1,
+      "objectif": 653000000,
+      "mapping": {
+        "date": "DATE",
+        "produit": "PRODUIT",
+        "categorie": "CATEGORIE",
+        "quantite": "QUANTITE",
+        "prix_unitaire": "PRIX UNITAIRE (Ar)",
+        "montant": null,
+        "client": "CLIENT",
+        "commercial": "COMMERCIAL"
+      },
+      "ville": "Fianarantsoa",
+      "responsable": "À définir"
+    },
+    {
+      "agence": "Mahajanga",
+      "fichier": "agence_mahajanga.csv",
+      "sep": ";",
+      "feuille": null,
+      "format_date": "%d/%m/%Y",
+      "multiplicateur": 1000,
+      "objectif": 466000000,
+      "mapping": {
+        "date": "date",
+        "produit": "produit",
+        "categorie": "categorie",
+        "quantite": "quantite",
+        "prix_unitaire": "prix_unitaire_kAr",
+        "montant": "montant_kAr",
+        "client": "client",
+        "commercial": "commercial"
+      },
+      "ville": "Mahajanga",
+      "responsable": "À définir"
+    },
+    {
+      "agence": "Antsirabe",
+      "fichier": "agence_antsirabe.csv",
+      "sep": ",",
+      "feuille": null,
+      "format_date": "%d/%m/%Y",
+      "multiplicateur": 1,
+      "objectif": 417000000,
+      "mapping": {
+        "date": "date",
+        "produit": "produit",
+        "categorie": "categorie",
+        "quantite": "quantite",
+        "prix_unitaire": "prix_unitaire",
+        "montant": "montant",
+        "client": "client",
+        "commercial": "commercial"
+      },
+      "ville": "Antsirabe",
+      "responsable": "À définir"
+    }
+  ]
+}

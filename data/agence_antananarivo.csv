@@ -1,0 +1,421 @@
+date,produit,categorie,quantite,prix_unitaire,montant,client,commercial
+21/05/2026,"Ordinateur portable 15""",Informatique,1,1850000,1850000,Robert Cousin,Aurore Maury-Briand
+14/02/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Maryse Verdier de la Fischer,Denis-Franck Ledoux
+17/02/2026,Smartphone Android 128Go,Téléphonie,1,620000,620000,Alphonse Peltier,Aurore Maury-Briand
+14/01/2026,Climatiseur split 12000 BTU,Électroménager,5,2100000,10500000,William Chevalier-Rey,Marcel Leblanc
+03/08/2026,Climatiseur split 12000 BTU,Électroménager,5,2100000,10500000,Laurent Lopes,Aurore Maury-Briand
+04/01/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Mathilde Goncalves,Julie Bertrand
+24/06/2026,Canapé 3 places,Mobilier,4,980000,3920000,Marthe Lacroix,Alexandre Morin
+22/02/2026,Réfrigérateur 250L,Électroménager,3,1450000,4350000,Zacharie-Tristan Guérin,Gérard-Frédéric Joly
+26/06/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Denise Joubert de la Goncalves,Denis-Franck Ledoux
+24/08/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Monique Dupuy,Marcel Leblanc
+10/02/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,Geneviève Pottier-Germain,Marcel Leblanc
+05/07/2026,Climatiseur split 12000 BTU,Électroménager,5,2100000,10500000,Gabriel David,Denis-Franck Ledoux
+24/01/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Noémi Royer,Caroline Morin
+10/02/2026,Climatiseur split 12000 BTU,Électroménager,3,2100000,6300000,Franck Duhamel,Chantal Hoareau
+14/07/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Frédérique Bègue,Alexandre Morin
+25/03/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Nicole Weiss,Gabriel de Guilbert
+06/02/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Claire Aubry,Denis-Franck Ledoux
+06/05/2026,"Ordinateur portable 15""",Informatique,5,1850000,9250000,Gérard Vallet,Yves Traore
+23/04/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Julie Letellier-Mary,Caroline Morin
+28/04/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Noémi Étienne,Chantal Hoareau
+25/07/2026,Réfrigérateur 250L,Électroménager,3,1450000,4350000,Daniel Grégoire-Teixeira,Alexandre Morin
+11/06/2026,Réfrigérateur 250L,Électroménager,5,1450000,7250000,André Masson,Aurore Maury-Briand
+23/08/2026,"Ordinateur portable 15""",Informatique,4,1850000,7400000,Thomas Leroux,Yves Traore
+15/05/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,Anouk Collin,Brigitte Pelletier
+24/07/2026,Téléphone basique double SIM,Téléphonie,5,95000,475000,Suzanne Evrard,Gabriel de Guilbert
+18/09/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,Robert-Aimé Bazin,Laurence Robert
+26/02/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,Zacharie Regnier,Yves Traore
+02/02/2026,"Ordinateur portable 15""",Informatique,4,1850000,7400000,Tristan-Jean Marie,Victor du Vasseur
+28/09/2026,Smartphone Android 128Go,Téléphonie,4,620000,2480000,Martin Barbier du Bernard,Alexandre Morin
+28/02/2026,Groupe électrogène 2kVA,Divers,1,1250000,1250000,Philippe-Emmanuel Guillou,Caroline Morin
+24/06/2026,Ventilateur sur pied,Divers,3,145000,435000,Thomas Léger,Gérard-Frédéric Joly
+21/08/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,Élodie de la Besson,Alexandre Traore
+14/09/2026,Groupe électrogène 2kVA,Divers,3,1250000,3750000,Richard Merle,Julie Bertrand
+02/06/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Adélaïde Le Camus,Chantal Hoareau
+12/04/2026,"Ordinateur portable 15""",Informatique,5,1850000,9250000,Bertrand Étienne,Yves Traore
+29/09/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Georges Boyer de la Duhamel,Alexandre Traore
+10/01/2026,"Ordinateur portable 15""",Informatique,4,1850000,7400000,Augustin Foucher,Gérard-Frédéric Joly
+03/05/2026,Ventilateur sur pied,Divers,3,145000,435000,Antoinette Samson,Alexandre Traore
+10/02/2026,Climatiseur split 12000 BTU,Électroménager,5,2100000,10500000,Charlotte Rodriguez-Delmas,Gérard-Frédéric Joly
+30/09/2026,Imprimante multifonction,Informatique,1,480000,480000,Danielle Aubry,Julie Bertrand
+26/03/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,Pauline de la Gimenez,Alexandre Morin
+05/08/2026,Smartphone Android 128Go,Téléphonie,5,620000,3100000,Honoré du Leconte,Aurore Maury-Briand
+09/06/2026,Ventilateur sur pied,Divers,2,145000,290000,Sabine Blondel,Victor du Vasseur
+13/08/2026,Groupe électrogène 2kVA,Divers,3,1250000,3750000,Célina Hoarau,Marcel Leblanc
+26/04/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Arthur Maillot-Lefebvre,Gérard-Frédéric Joly
+28/04/2026,Climatiseur split 12000 BTU,Électroménager,5,2100000,10500000,Henriette-Geneviève Robert,Denis-Franck Ledoux
+31/01/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Thomas Lopez,Aurore Maury-Briand
+19/06/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,Arthur David-Rémy,Gérard-Frédéric Joly
+06/09/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Pierre Gomez,Aurore Maury-Briand
+31/08/2026,Téléphone basique double SIM,Téléphonie,5,95000,475000,Xavier-Patrick Benoit,Aurore Maury-Briand
+08/04/2026,Canapé 3 places,Mobilier,4,980000,3920000,Christelle Ramos-Masse,Gérard-Frédéric Joly
+01/07/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,Thérèse-Jacqueline Reynaud,Victor du Vasseur
+20/02/2026,Smartphone Android 128Go,Téléphonie,1,620000,620000,Élisabeth Gauthier,Alexandre Traore
+25/02/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Vincent Perret,Aurore Maury-Briand
+18/08/2026,Climatiseur split 12000 BTU,Électroménager,5,2100000,10500000,Pauline Bouchet,Yves Traore
+25/08/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Anastasie Maillet,Aurore Maury-Briand
+15/08/2026,Table à manger 6 places,Mobilier,1,750000,750000,Antoine Antoine,Julie Bertrand
+20/02/2026,Table à manger 6 places,Mobilier,5,750000,3750000,Catherine Menard,Alexandre Traore
+08/01/2026,"Ordinateur portable 15""",Informatique,5,1850000,9250000,Étienne du Joly,Gérard-Frédéric Joly
+27/03/2026,Ventilateur sur pied,Divers,2,145000,290000,Édith Lopes,Victor du Vasseur
+25/07/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Jeanne Sanchez,Alexandre Traore
+19/07/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,Capucine Girard,Alexandre Morin
+27/05/2026,Ventilateur sur pied,Divers,4,145000,580000,Agathe Morin-Chrétien,Victor du Vasseur
+07/09/2026,"Ordinateur portable 15""",Informatique,5,1850000,9250000,Émile Cordier-Vallée,Yves Traore
+30/01/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,Frédérique Maréchal,Denis-Franck Ledoux
+10/06/2026,Imprimante multifonction,Informatique,1,480000,480000,Émile Gillet,Alexandre Traore
+15/09/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,Léon Aubry,Chantal Hoareau
+18/09/2026,Téléphone basique double SIM,Téléphonie,1,95000,95000,Louise Briand,Gérard-Frédéric Joly
+04/02/2026,Table à manger 6 places,Mobilier,1,750000,750000,Véronique Meyer-Aubert,Caroline Morin
+03/03/2026,Table à manger 6 places,Mobilier,4,750000,3000000,Franck Boyer de Letellier,Denis-Franck Ledoux
+21/01/2026,Climatiseur split 12000 BTU,Électroménager,5,2100000,10500000,Andrée Girard,Denis-Franck Ledoux
+25/09/2026,Réfrigérateur 250L,Électroménager,5,1450000,7250000,Valentine-Camille Laporte,Gabriel de Guilbert
+10/06/2026,Ventilateur sur pied,Divers,2,145000,290000,Antoine Grégoire,Aurore Maury-Briand
+03/06/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,Éric Muller,Laurence Robert
+05/01/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Antoinette Parent de la Antoine,Laurence Robert
+21/02/2026,"Ordinateur portable 15""",Informatique,5,1850000,9250000,Roland Hoarau,Gérard-Frédéric Joly
+16/05/2026,Téléphone basique double SIM,Téléphonie,5,95000,475000,Alice-Audrey Humbert,Yves Traore
+06/05/2026,Ventilateur sur pied,Divers,1,145000,145000,Margaux-Josette Martins,Gabriel de Guilbert
+04/06/2026,Climatiseur split 12000 BTU,Électroménager,4,2100000,8400000,Isabelle Aubry,Denis-Franck Ledoux
+05/01/2026,Groupe électrogène 2kVA,Divers,5,1250000,6250000,Christelle Leconte,Caroline Morin
+23/02/2026,Canapé 3 places,Mobilier,3,980000,2940000,Michel Gomes de Petit,Yves Traore
+21/03/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Capucine Legrand,Alexandre Morin
+25/06/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,Frédérique Guillou-Aubry,Aurore Maury-Briand
+16/09/2026,"Ordinateur portable 15""",Informatique,3,1850000,5550000,Jérôme Muller,Laurence Robert
+17/02/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Julien Jacquet-Barbier,Caroline Morin
+23/01/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Madeleine Raymond,Alexandre Traore
+15/05/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,Adrienne Le Dupré,Yves Traore
+07/08/2026,Imprimante multifonction,Informatique,5,480000,2400000,Daniel Aubry,Marcel Leblanc
+18/03/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,Bernard Bernier,Marcel Leblanc
+17/03/2026,Réfrigérateur 250L,Électroménager,3,1450000,4350000,Colette Maillard-Carre,Victor du Vasseur
+06/07/2026,Réfrigérateur 250L,Électroménager,3,1450000,4350000,Françoise Wagner Le Martins,Julie Bertrand
+03/07/2026,Groupe électrogène 2kVA,Divers,1,1250000,1250000,Philippe-Patrick Deschamps,Aurore Maury-Briand
+01/07/2026,"Ordinateur portable 15""",Informatique,1,1850000,1850000,Benjamin Couturier,Julie Bertrand
+21/03/2026,Téléphone basique double SIM,Téléphonie,4,95000,380000,Laure Bertrand,Aurore Maury-Briand
+31/07/2026,Table à manger 6 places,Mobilier,2,750000,1500000,Jacques Pires,Alexandre Traore
+30/07/2026,Climatiseur split 12000 BTU,Électroménager,3,2100000,6300000,Timothée Charles,Julie Bertrand
+17/05/2026,"Ordinateur portable 15""",Informatique,2,1850000,3700000,Matthieu Courtois,Yves Traore
+15/07/2026,Canapé 3 places,Mobilier,1,980000,980000,Adrienne Marie,Chantal Hoareau
+24/04/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,Denis Morvan,Aurore Maury-Briand
+29/06/2026,Canapé 3 places,Mobilier,4,980000,3920000,Julien Guillon,Alexandre Morin
+25/04/2026,Canapé 3 places,Mobilier,2,980000,1960000,Claudine Perret-Rodriguez,Alexandre Traore
+18/06/2026,"Ordinateur portable 15""",Informatique,4,1850000,7400000,Honoré Marchal,Alexandre Morin
+29/06/2026,Table à manger 6 places,Mobilier,3,750000,2250000,Joseph Lacroix,Caroline Morin
+19/06/2026,Smartphone Android 128Go,Téléphonie,5,620000,3100000,Xavier Henry-Monnier,Alexandre Traore
+02/04/2026,Réfrigérateur 250L,Électroménager,3,1450000,4350000,Odette Legendre-Bouvet,Denis-Franck Ledoux
+20/01/2026,Groupe électrogène 2kVA,Divers,3,1250000,3750000,Georges Goncalves,Gérard-Frédéric Joly
+10/06/2026,"Ordinateur portable 15""",Informatique,3,1850000,5550000,Lucas Laurent,Victor du Vasseur
+01/03/2026,"Ordinateur portable 15""",Informatique,5,1850000,9250000,Jacques Bouchet,Victor du Vasseur
+11/05/2026,Ventilateur sur pied,Divers,2,145000,290000,Grégoire Leroux-Boutin,Alexandre Traore
+24/09/2026,Imprimante multifonction,Informatique,1,480000,480000,Laurent Morel,Julie Bertrand
+06/07/2026,Téléphone basique double SIM,Téléphonie,2,95000,190000,Geneviève Bourgeois,Victor du Vasseur
+10/06/2026,Réfrigérateur 250L,Électroménager,3,1450000,4350000,Marine Schneider,Caroline Morin
+17/09/2026,Table à manger 6 places,Mobilier,3,750000,2250000,Frédéric Laurent-Delmas,Alexandre Morin
+26/07/2026,"Ordinateur portable 15""",Informatique,3,1850000,5550000,Luc Le Lopes,Brigitte Pelletier
+09/04/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,Guillaume Marty,Victor du Vasseur
+31/03/2026,"Ordinateur portable 15""",Informatique,4,1850000,7400000,Noémi Le Leroy,Denis-Franck Ledoux
+01/01/2026,Téléphone basique double SIM,Téléphonie,4,95000,380000,Gilles Colin,Alexandre Morin
+14/06/2026,Climatiseur split 12000 BTU,Électroménager,4,2100000,8400000,Julie-Alex Nicolas,Laurence Robert
+19/09/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Renée Barre Le Nguyen,Laurence Robert
+13/02/2026,Canapé 3 places,Mobilier,2,980000,1960000,Dominique Ferreira du Verdier,Alexandre Morin
+21/06/2026,Smartphone Android 128Go,Téléphonie,5,620000,3100000,Gilbert de Neveu,Gérard-Frédéric Joly
+08/06/2026,Canapé 3 places,Mobilier,2,980000,1960000,Adélaïde Dijoux,Aurore Maury-Briand
+13/01/2026,Canapé 3 places,Mobilier,2,980000,1960000,Élodie Marchal-Perret,Alexandre Traore
+07/02/2026,Climatiseur split 12000 BTU,Électroménager,4,2100000,8400000,Xavier Rémy,Laurence Robert
+10/04/2026,Smartphone Android 128Go,Téléphonie,5,620000,3100000,Margaux Dupré de Fouquet,Brigitte Pelletier
+24/07/2026,"Ordinateur portable 15""",Informatique,4,1850000,7400000,Philippe Ruiz du Millet,Aurore Maury-Briand
+24/02/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,Lucie Lenoir,Julie Bertrand
+23/09/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Étienne De Oliveira,Laurence Robert
+04/03/2026,Réfrigérateur 250L,Électroménager,2,1450000,2900000,Diane Chauvet,Laurence Robert
+29/09/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,Madeleine-Océane Lévy,Marcel Leblanc
+16/09/2026,"Ordinateur portable 15""",Informatique,4,1850000,7400000,Henri Renault,Victor du Vasseur
+17/08/2026,Table à manger 6 places,Mobilier,5,750000,3750000,Martin Le Turpin,Yves Traore
+19/08/2026,Imprimante multifonction,Informatique,4,480000,1920000,Simone Parent,Alexandre Morin
+24/09/2026,Imprimante multifonction,Informatique,3,480000,1440000,Pierre du Guyon,Laurence Robert
+14/08/2026,"Ordinateur portable 15""",Informatique,3,1850000,5550000,Vincent Clément,Gérard-Frédéric Joly
+20/05/2026,Imprimante multifonction,Informatique,2,480000,960000,Pierre Dupré Le Morin,Gabriel de Guilbert
+11/02/2026,Climatiseur split 12000 BTU,Électroménager,5,2100000,10500000,Yves Ruiz-Jean,Yves Traore
+20/03/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,David de Lambert,Brigitte Pelletier
+28/07/2026,Climatiseur split 12000 BTU,Électroménager,4,2100000,8400000,Noël Bourdon-Lecoq,Gabriel de Guilbert
+01/02/2026,Téléphone basique double SIM,Téléphonie,4,95000,380000,Michel Legros,Aurore Maury-Briand
+11/01/2026,Table à manger 6 places,Mobilier,4,750000,3000000,Élise-Nathalie Costa,Chantal Hoareau
+14/07/2026,Table à manger 6 places,Mobilier,5,750000,3750000,Jacqueline Caron,Laurence Robert
+02/06/2026,Réfrigérateur 250L,Électroménager,3,1450000,4350000,Bernard Merle,Julie Bertrand
+23/04/2026,Smartphone Android 128Go,Téléphonie,4,620000,2480000,Geneviève Schmitt,Laurence Robert
+06/09/2026,Climatiseur split 12000 BTU,Électroménager,4,2100000,8400000,Susan de Pascal,Alexandre Traore
+26/03/2026,Smartphone Android 128Go,Téléphonie,4,620000,2480000,Charles Pineau-Lucas,Chantal Hoareau
+14/01/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Margaud Faivre,Victor du Vasseur
+12/02/2026,"Ordinateur portable 15""",Informatique,1,1850000,1850000,Claude Launay,Caroline Morin
+04/04/2026,Smartphone Android 128Go,Téléphonie,4,620000,2480000,Sophie Leroux-Bernier,Alexandre Traore
+19/04/2026,Climatiseur split 12000 BTU,Électroménager,3,2100000,6300000,Stéphanie Poirier,Laurence Robert
+23/05/2026,Climatiseur split 12000 BTU,Électroménager,4,2100000,8400000,Timothée Baron-Gosselin,Julie Bertrand
+10/05/2026,Groupe électrogène 2kVA,Divers,4,1250000,5000000,Véronique de la Paris,Chantal Hoareau
+27/01/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,Astrid Delannoy,Gabriel de Guilbert
+21/01/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Georges Maillard Le Julien,Julie Bertrand
+13/04/2026,Réfrigérateur 250L,Électroménager,2,1450000,2900000,Audrey Dos Santos-Fernandes,Chantal Hoareau
+03/05/2026,Réfrigérateur 250L,Électroménager,2,1450000,2900000,Léon Lemonnier-Brunet,Yves Traore
+22/04/2026,Smartphone Android 128Go,Téléphonie,1,620000,620000,Arthur du Cordier,Laurence Robert
+27/03/2026,"Ordinateur portable 15""",Informatique,3,1850000,5550000,Suzanne Legros,Denis-Franck Ledoux
+25/03/2026,"Ordinateur portable 15""",Informatique,1,1850000,1850000,François De Oliveira,Alexandre Morin
+09/06/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,Aimée Salmon,Denis-Franck Ledoux
+23/07/2026,"Ordinateur portable 15""",Informatique,4,1850000,7400000,Monique-Valentine Robert,Brigitte Pelletier
+05/05/2026,Climatiseur split 12000 BTU,Électroménager,5,2100000,10500000,Lucy Chrétien,Gérard-Frédéric Joly
+03/03/2026,"Ordinateur portable 15""",Informatique,3,1850000,5550000,Paulette Tanguy,Julie Bertrand
+27/06/2026,Groupe électrogène 2kVA,Divers,1,1250000,1250000,Geneviève Coulon-Vasseur,Marcel Leblanc
+05/02/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Martin-Patrick Leroy,Marcel Leblanc
+04/08/2026,"Ordinateur portable 15""",Informatique,1,1850000,1850000,Maggie Laroche,Chantal Hoareau
+05/07/2026,Smartphone Android 128Go,Téléphonie,4,620000,2480000,Danielle Bigot,Caroline Morin
+20/03/2026,Ventilateur sur pied,Divers,4,145000,580000,Thierry Joubert,Victor du Vasseur
+19/05/2026,Réfrigérateur 250L,Électroménager,5,1450000,7250000,Louis Allain,Denis-Franck Ledoux
+05/09/2026,Canapé 3 places,Mobilier,5,980000,4900000,Alexandrie-Aurélie Weiss,Laurence Robert
+18/05/2026,Smartphone Android 128Go,Téléphonie,5,620000,3100000,Christiane Pinto,Gabriel de Guilbert
+23/05/2026,Table à manger 6 places,Mobilier,1,750000,750000,André Bertin,Laurence Robert
+14/07/2026,Climatiseur split 12000 BTU,Électroménager,4,2100000,8400000,Marguerite Lecomte,Gabriel de Guilbert
+04/04/2026,Réfrigérateur 250L,Électroménager,3,1450000,4350000,Marguerite Marques,Laurence Robert
+24/06/2026,Climatiseur split 12000 BTU,Électroménager,3,2100000,6300000,Laurence Chrétien,Alexandre Morin
+06/01/2026,Table à manger 6 places,Mobilier,3,750000,2250000,Jeannine Faure,Marcel Leblanc
+04/05/2026,Groupe électrogène 2kVA,Divers,1,1250000,1250000,Agnès Bouvet,Brigitte Pelletier
+04/05/2026,Smartphone Android 128Go,Téléphonie,5,620000,3100000,Anastasie Marty-Hubert,Brigitte Pelletier
+18/08/2026,Smartphone Android 128Go,Téléphonie,4,620000,2480000,Victor Fournier,Julie Bertrand
+24/04/2026,Réfrigérateur 250L,Électroménager,3,1450000,4350000,Gérard Bourgeois,Victor du Vasseur
+08/07/2026,"Ordinateur portable 15""",Informatique,3,1850000,5550000,Thierry Brunet,Laurence Robert
+06/08/2026,Téléphone basique double SIM,Téléphonie,3,95000,285000,Christophe Reynaud-Laroche,Brigitte Pelletier
+21/08/2026,Téléphone basique double SIM,Téléphonie,3,95000,285000,Roland Carpentier,Alexandre Morin
+03/03/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,Joséphine Gosselin,Brigitte Pelletier
+05/04/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Danielle Seguin,Aurore Maury-Briand
+22/05/2026,Climatiseur split 12000 BTU,Électroménager,4,2100000,8400000,Céline Merle de la Langlois,Brigitte Pelletier
+25/05/2026,"Ordinateur portable 15""",Informatique,5,1850000,9250000,Stéphane Michel,Gérard-Frédéric Joly
+27/04/2026,Table à manger 6 places,Mobilier,3,750000,2250000,Sébastien Labbé du Chauvin,Gabriel de Guilbert
+06/03/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Auguste de la Henry,Alexandre Morin
+30/05/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,Zacharie Brunel de Moreno,Brigitte Pelletier
+22/02/2026,Groupe électrogène 2kVA,Divers,4,1250000,5000000,Jérôme Rossi,Chantal Hoareau
+29/08/2026,Réfrigérateur 250L,Électroménager,3,1450000,4350000,Michèle Muller,Laurence Robert
+27/01/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Marianne de De Oliveira,Alexandre Morin
+28/02/2026,Ventilateur sur pied,Divers,4,145000,580000,Catherine Lesage,Chantal Hoareau
+07/02/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,Suzanne Neveu,Denis-Franck Ledoux
+19/03/2026,"Ordinateur portable 15""",Informatique,1,1850000,1850000,Martin Schmitt,Yves Traore
+13/02/2026,Canapé 3 places,Mobilier,3,980000,2940000,Laetitia du Turpin,Aurore Maury-Briand
+26/04/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,Juliette Breton,Julie Bertrand
+15/08/2026,Smartphone Android 128Go,Téléphonie,4,620000,2480000,Benjamin Lopes-Lebreton,Alexandre Morin
+06/06/2026,Table à manger 6 places,Mobilier,4,750000,3000000,Nicolas Colas-Bourdon,Denis-Franck Ledoux
+20/02/2026,"Ordinateur portable 15""",Informatique,5,1850000,9250000,Maggie Leroy,Julie Bertrand
+16/05/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,Marguerite Vidal,Caroline Morin
+30/03/2026,Réfrigérateur 250L,Électroménager,2,1450000,2900000,Frédérique Monnier,Marcel Leblanc
+29/07/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,Jean-Guillaume Godard,Laurence Robert
+30/05/2026,"Ordinateur portable 15""",Informatique,4,1850000,7400000,Roger-Aimé Blondel,Alexandre Traore
+21/08/2026,Climatiseur split 12000 BTU,Électroménager,3,2100000,6300000,Augustin de la Fouquet,Gérard-Frédéric Joly
+12/04/2026,"Ordinateur portable 15""",Informatique,3,1850000,5550000,Victoire Berthelot,Victor du Vasseur
+18/03/2026,Réfrigérateur 250L,Électroménager,2,1450000,2900000,Noël Imbert-Mendès,Alexandre Morin
+31/01/2026,Table à manger 6 places,Mobilier,1,750000,750000,Sophie Durand,Yves Traore
+28/05/2026,Canapé 3 places,Mobilier,5,980000,4900000,William Louis,Laurence Robert
+26/07/2026,Réfrigérateur 250L,Électroménager,3,1450000,4350000,Jacqueline Schneider,Alexandre Morin
+13/08/2026,Smartphone Android 128Go,Téléphonie,4,620000,2480000,Michèle-Thérèse Lenoir,Gérard-Frédéric Joly
+15/06/2026,"Ordinateur portable 15""",Informatique,4,1850000,7400000,Marie du Vallet,Denis-Franck Ledoux
+28/04/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Margot Benard-Boutin,Caroline Morin
+11/01/2026,Table à manger 6 places,Mobilier,5,750000,3750000,Laetitia Schneider,Julie Bertrand
+21/01/2026,"Ordinateur portable 15""",Informatique,3,1850000,5550000,Gabriel-Charles Mace,Julie Bertrand
+23/09/2026,Imprimante multifonction,Informatique,4,480000,1920000,Hugues de Bernier,Caroline Morin
+03/04/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Éléonore Olivier-Fabre,Denis-Franck Ledoux
+16/02/2026,Smartphone Android 128Go,Téléphonie,4,620000,2480000,Laure Ramos,Laurence Robert
+14/06/2026,Climatiseur split 12000 BTU,Électroménager,3,2100000,6300000,Lorraine-Capucine Leclercq,Caroline Morin
+18/06/2026,Réfrigérateur 250L,Électroménager,2,1450000,2900000,Gabriel Alves de la Hernandez,Victor du Vasseur
+25/07/2026,"Ordinateur portable 15""",Informatique,3,1850000,5550000,René Marchand,Chantal Hoareau
+21/08/2026,Imprimante multifonction,Informatique,1,480000,480000,Alphonse-André Lenoir,Gérard-Frédéric Joly
+01/03/2026,Climatiseur split 12000 BTU,Électroménager,3,2100000,6300000,Christophe Diaz du Henry,Julie Bertrand
+01/01/2026,Smartphone Android 128Go,Téléphonie,5,620000,3100000,Sébastien Jacquet,Caroline Morin
+31/07/2026,Table à manger 6 places,Mobilier,4,750000,3000000,Valentine Besnard,Alexandre Traore
+13/09/2026,Climatiseur split 12000 BTU,Électroménager,3,2100000,6300000,Éléonore Roux,Caroline Morin
+15/04/2026,Smartphone Android 128Go,Téléphonie,1,620000,620000,Olivier-Bertrand François,Alexandre Morin
+13/08/2026,Téléphone basique double SIM,Téléphonie,3,95000,285000,Victoire Legrand,Brigitte Pelletier
+03/05/2026,Smartphone Android 128Go,Téléphonie,1,620000,620000,Anastasie-Clémence Gérard,Brigitte Pelletier
+08/01/2026,Réfrigérateur 250L,Électroménager,5,1450000,7250000,Madeleine-Aurélie Menard,Marcel Leblanc
+28/02/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Roger Salmon,Laurence Robert
+13/09/2026,Groupe électrogène 2kVA,Divers,2,1250000,2500000,Hélène Diallo,Brigitte Pelletier
+01/08/2026,Climatiseur split 12000 BTU,Électroménager,3,2100000,6300000,Monique du Pichon,Chantal Hoareau
+05/05/2026,Smartphone Android 128Go,Téléphonie,4,620000,2480000,Théodore Gilbert Le Colas,Laurence Robert
+08/04/2026,Téléphone basique double SIM,Téléphonie,4,95000,380000,Anne Bourdon de Ledoux,Denis-Franck Ledoux
+05/02/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Thomas de la Aubry,Alexandre Morin
+24/06/2026,Canapé 3 places,Mobilier,4,980000,3920000,Édouard Dupuis,Julie Bertrand
+25/05/2026,Smartphone Android 128Go,Téléphonie,1,620000,620000,Robert Sanchez,Brigitte Pelletier
+08/09/2026,Climatiseur split 12000 BTU,Électroménager,5,2100000,10500000,Adrien Lejeune,Chantal Hoareau
+05/09/2026,Réfrigérateur 250L,Électroménager,5,1450000,7250000,Sylvie Klein,Gabriel de Guilbert
+13/07/2026,Climatiseur split 12000 BTU,Électroménager,5,2100000,10500000,Gabriel Hervé,Laurence Robert
+03/05/2026,Ventilateur sur pied,Divers,2,145000,290000,Michel Guérin de la Aubry,Denis-Franck Ledoux
+23/01/2026,Smartphone Android 128Go,Téléphonie,4,620000,2480000,Élodie-Pauline Noël,Gabriel de Guilbert
+17/07/2026,Imprimante multifonction,Informatique,4,480000,1920000,Hélène Jourdan-Gérard,Caroline Morin
+11/09/2026,Canapé 3 places,Mobilier,2,980000,1960000,David-Auguste Lopez,Alexandre Traore
+19/06/2026,Réfrigérateur 250L,Électroménager,5,1450000,7250000,Honoré Valentin,Chantal Hoareau
+21/02/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,Louise-Sabine Denis,Marcel Leblanc
+15/03/2026,Ventilateur sur pied,Divers,1,145000,145000,Madeleine Bonnin,Victor du Vasseur
+08/02/2026,Table à manger 6 places,Mobilier,2,750000,1500000,Laetitia Charrier,Laurence Robert
+23/06/2026,Canapé 3 places,Mobilier,3,980000,2940000,Virginie Navarro-Faure,Denis-Franck Ledoux
+18/06/2026,"Ordinateur portable 15""",Informatique,1,1850000,1850000,Alice Lesage Le Texier,Chantal Hoareau
+14/07/2026,"Ordinateur portable 15""",Informatique,5,1850000,9250000,Alexandre-Benjamin Rolland,Gabriel de Guilbert
+19/01/2026,"Ordinateur portable 15""",Informatique,4,1850000,7400000,Aimée-Juliette Verdier,Denis-Franck Ledoux
+27/04/2026,Réfrigérateur 250L,Électroménager,3,1450000,4350000,Emmanuel Lelièvre,Brigitte Pelletier
+21/02/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,Simone Le Arnaud,Laurence Robert
+15/01/2026,Réfrigérateur 250L,Électroménager,3,1450000,4350000,Renée-Victoire Robin,Alexandre Traore
+31/05/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Marine Lejeune,Gabriel de Guilbert
+06/05/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Margot Leconte,Marcel Leblanc
+29/03/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Édouard Boulanger,Yves Traore
+04/05/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,Virginie Hervé,Laurence Robert
+29/04/2026,Ventilateur sur pied,Divers,2,145000,290000,Alex De Sousa,Laurence Robert
+11/05/2026,"Ordinateur portable 15""",Informatique,4,1850000,7400000,Hugues Fleury,Caroline Morin
+28/05/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,Céline Leleu,Caroline Morin
+15/08/2026,Téléphone basique double SIM,Téléphonie,1,95000,95000,Adélaïde Descamps,Gabriel de Guilbert
+06/08/2026,Groupe électrogène 2kVA,Divers,3,1250000,3750000,Susan Pasquier-Vincent,Brigitte Pelletier
+12/04/2026,Climatiseur split 12000 BTU,Électroménager,3,2100000,6300000,Raymond Le Loiseau,Victor du Vasseur
+02/05/2026,Table à manger 6 places,Mobilier,1,750000,750000,Simone Samson,Victor du Vasseur
+01/06/2026,Téléphone basique double SIM,Téléphonie,5,95000,475000,François Da Costa,Brigitte Pelletier
+21/05/2026,Climatiseur split 12000 BTU,Électroménager,4,2100000,8400000,Christelle Hervé-Navarro,Alexandre Traore
+12/09/2026,Téléphone basique double SIM,Téléphonie,1,95000,95000,Chantal Leroy,Chantal Hoareau
+28/04/2026,Ventilateur sur pied,Divers,3,145000,435000,Isabelle Lacombe de la Langlois,Denis-Franck Ledoux
+08/04/2026,Canapé 3 places,Mobilier,2,980000,1960000,Agathe Courtois-Cordier,Denis-Franck Ledoux
+19/02/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,Frédéric Noël,Caroline Morin
+14/08/2026,"Ordinateur portable 15""",Informatique,3,1850000,5550000,Célina Jourdan,Alexandre Traore
+16/02/2026,Téléphone basique double SIM,Téléphonie,2,95000,190000,Paul Auger,Alexandre Morin
+31/03/2026,Climatiseur split 12000 BTU,Électroménager,4,2100000,8400000,Pierre Munoz Le Legros,Aurore Maury-Briand
+07/07/2026,Réfrigérateur 250L,Électroménager,5,1450000,7250000,Sylvie Berger,Marcel Leblanc
+26/03/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Claudine Jacob,Alexandre Morin
+01/06/2026,Ventilateur sur pied,Divers,4,145000,580000,Théophile de la Muller,Brigitte Pelletier
+28/08/2026,Table à manger 6 places,Mobilier,1,750000,750000,Marc-Jean Guillou,Gérard-Frédéric Joly
+23/07/2026,Réfrigérateur 250L,Électroménager,2,1450000,2900000,Adrien-Guy Pages,Chantal Hoareau
+16/02/2026,Canapé 3 places,Mobilier,3,980000,2940000,Théodore Delorme du Gérard,Julie Bertrand
+05/03/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Valérie Barre,Laurence Robert
+15/07/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Michelle Pineau,Chantal Hoareau
+25/02/2026,"Ordinateur portable 15""",Informatique,3,1850000,5550000,Élisabeth Rocher,Caroline Morin
+17/06/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Sébastien Jacob-Rey,Denis-Franck Ledoux
+26/08/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Amélie Prévost,Brigitte Pelletier
+01/03/2026,Climatiseur split 12000 BTU,Électroménager,4,2100000,8400000,Monique Collin,Yves Traore
+05/06/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,Paul Da Silva,Laurence Robert
+11/03/2026,Réfrigérateur 250L,Électroménager,2,1450000,2900000,Philippe Maury,Victor du Vasseur
+03/08/2026,Smartphone Android 128Go,Téléphonie,5,620000,3100000,Capucine Besnard,Denis-Franck Ledoux
+01/08/2026,Imprimante multifonction,Informatique,2,480000,960000,Rémy Pineau,Caroline Morin
+28/07/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,David Lejeune,Alexandre Morin
+22/04/2026,Réfrigérateur 250L,Électroménager,3,1450000,4350000,Auguste Lelièvre,Laurence Robert
+05/07/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Jean-Thierry Jacquot,Gérard-Frédéric Joly
+03/07/2026,Groupe électrogène 2kVA,Divers,3,1250000,3750000,Audrey Boulanger,Alexandre Traore
+04/03/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Monique Prévost-Toussaint,Chantal Hoareau
+19/04/2026,Table à manger 6 places,Mobilier,1,750000,750000,Alex Maurice,Caroline Morin
+26/01/2026,"Ordinateur portable 15""",Informatique,1,1850000,1850000,Georges Lefort,Julie Bertrand
+16/04/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,Gabriel Letellier de Gay,Gérard-Frédéric Joly
+17/04/2026,Table à manger 6 places,Mobilier,5,750000,3750000,Timothée Fischer,Denis-Franck Ledoux
+18/06/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,Matthieu Brun,Julie Bertrand
+02/01/2026,Réfrigérateur 250L,Électroménager,5,1450000,7250000,Alexandre Lambert Le Lefèvre,Alexandre Morin
+08/03/2026,Table à manger 6 places,Mobilier,2,750000,1500000,Joseph Besson du Rodrigues,Marcel Leblanc
+26/02/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,Rémy Bouchet-Moreno,Caroline Morin
+08/01/2026,Table à manger 6 places,Mobilier,2,750000,1500000,Émile Roger,Gabriel de Guilbert
+15/06/2026,Canapé 3 places,Mobilier,2,980000,1960000,Thibault Weber,Alexandre Traore
+06/03/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,Isabelle Mahe de la Grondin,Brigitte Pelletier
+02/02/2026,Smartphone Android 128Go,Téléphonie,1,620000,620000,Joséphine Jacques,Laurence Robert
+20/09/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Xavier-Aimé Turpin,Denis-Franck Ledoux
+24/04/2026,Réfrigérateur 250L,Électroménager,5,1450000,7250000,Yves Morvan de la Legrand,Denis-Franck Ledoux
+04/06/2026,Réfrigérateur 250L,Électroménager,5,1450000,7250000,Marie Coste,Laurence Robert
+01/02/2026,"Ordinateur portable 15""",Informatique,1,1850000,1850000,Timothée Lamy Le Pineau,Laurence Robert
+25/02/2026,Table à manger 6 places,Mobilier,4,750000,3000000,Eugène Jacob du Gautier,Laurence Robert
+07/02/2026,Imprimante multifonction,Informatique,4,480000,1920000,Laurent Masse-Pelletier,Gérard-Frédéric Joly
+03/02/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,Lucie-Lucie Simon,Yves Traore
+16/06/2026,Climatiseur split 12000 BTU,Électroménager,5,2100000,10500000,Laure Petit,Victor du Vasseur
+31/05/2026,Groupe électrogène 2kVA,Divers,5,1250000,6250000,Anaïs-Zoé Renault,Laurence Robert
+20/02/2026,Smartphone Android 128Go,Téléphonie,4,620000,2480000,Thibaut Benard-Vasseur,Julie Bertrand
+21/04/2026,"Ordinateur portable 15""",Informatique,5,1850000,9250000,Thierry Le Potier,Victor du Vasseur
+31/07/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Thomas Pereira,Gabriel de Guilbert
+01/08/2026,Table à manger 6 places,Mobilier,4,750000,3000000,Honoré Besnard,Brigitte Pelletier
+10/06/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,Stéphane Marchal,Caroline Morin
+31/08/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,Benjamin Collet,Gérard-Frédéric Joly
+17/02/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,Patricia Roger,Victor du Vasseur
+08/03/2026,Réfrigérateur 250L,Électroménager,3,1450000,4350000,Christophe Le Laporte,Marcel Leblanc
+18/06/2026,Réfrigérateur 250L,Électroménager,5,1450000,7250000,Laetitia de la Boucher,Caroline Morin
+05/08/2026,Réfrigérateur 250L,Électroménager,3,1450000,4350000,Lucie Letellier,Chantal Hoareau
+28/05/2026,Ventilateur sur pied,Divers,1,145000,145000,Céline Bigot,Denis-Franck Ledoux
+17/09/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,David Faivre,Aurore Maury-Briand
+25/04/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,Yves Ramos-Parent,Chantal Hoareau
+08/07/2026,Réfrigérateur 250L,Électroménager,5,1450000,7250000,Mathilde Robin,Gérard-Frédéric Joly
+26/04/2026,Imprimante multifonction,Informatique,5,480000,2400000,Agathe Aubry,Julie Bertrand
+14/01/2026,Smartphone Android 128Go,Téléphonie,5,620000,3100000,Chantal De Sousa-Tessier,Denis-Franck Ledoux
+15/01/2026,Ventilateur sur pied,Divers,3,145000,435000,Stéphane-Laurent Diaz,Yves Traore
+23/06/2026,Climatiseur split 12000 BTU,Électroménager,3,2100000,6300000,Catherine Parent,Gabriel de Guilbert
+25/07/2026,Réfrigérateur 250L,Électroménager,2,1450000,2900000,Noël Laurent-Legendre,Gérard-Frédéric Joly
+16/02/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,Marguerite Bourdon-Louis,Brigitte Pelletier
+03/08/2026,Téléphone basique double SIM,Téléphonie,4,95000,380000,Timothée Barthelemy,Laurence Robert
+09/06/2026,Climatiseur split 12000 BTU,Électroménager,3,2100000,6300000,Victor Lejeune de Joly,Brigitte Pelletier
+13/02/2026,Climatiseur split 12000 BTU,Électroménager,5,2100000,10500000,Alfred Bailly,Alexandre Traore
+26/01/2026,Réfrigérateur 250L,Électroménager,5,1450000,7250000,Céline Pereira,Caroline Morin
+06/08/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,René Dufour-Chevallier,Laurence Robert
+20/05/2026,"Ordinateur portable 15""",Informatique,4,1850000,7400000,Michèle Leconte,Aurore Maury-Briand
+26/06/2026,Imprimante multifonction,Informatique,1,480000,480000,Paulette Coste-Bernier,Victor du Vasseur
+07/09/2026,Réfrigérateur 250L,Électroménager,5,1450000,7250000,Marc Bègue,Marcel Leblanc
+23/04/2026,"Ordinateur portable 15""",Informatique,1,1850000,1850000,Patrick Chauvet,Victor du Vasseur
+04/01/2026,Groupe électrogène 2kVA,Divers,1,1250000,1250000,Laurence David,Aurore Maury-Briand
+12/03/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,Gabrielle Hebert,Julie Bertrand
+03/03/2026,Climatiseur split 12000 BTU,Électroménager,3,2100000,6300000,Inès Étienne,Alexandre Traore
+31/03/2026,Smartphone Android 128Go,Téléphonie,4,620000,2480000,Zacharie Tessier,Yves Traore
+14/09/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Martine Bonnet-Chauvin,Marcel Leblanc
+06/02/2026,Table à manger 6 places,Mobilier,3,750000,2250000,Étienne-Charles De Sousa,Victor du Vasseur
+12/08/2026,Table à manger 6 places,Mobilier,1,750000,750000,Vincent Lecomte,Alexandre Traore
+10/06/2026,Smartphone Android 128Go,Téléphonie,1,620000,620000,Aimée Girard Le Berger,Denis-Franck Ledoux
+02/08/2026,Smartphone Android 128Go,Téléphonie,4,620000,2480000,Roland Leclerc,Alexandre Morin
+16/06/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,Robert Guillaume,Yves Traore
+24/08/2026,Canapé 3 places,Mobilier,5,980000,4900000,Gabrielle-Hortense Boulanger,Chantal Hoareau
+15/02/2026,"Ordinateur portable 15""",Informatique,3,1850000,5550000,Théophile Bernard,Victor du Vasseur
+12/08/2026,Table à manger 6 places,Mobilier,2,750000,1500000,David-Christophe Gimenez,Denis-Franck Ledoux
+22/07/2026,Smartphone Android 128Go,Téléphonie,1,620000,620000,Emmanuel-Bertrand Peltier,Chantal Hoareau
+24/04/2026,Climatiseur split 12000 BTU,Électroménager,3,2100000,6300000,Christophe Garcia,Gabriel de Guilbert
+19/09/2026,Canapé 3 places,Mobilier,1,980000,980000,Inès Pruvost,Caroline Morin
+10/04/2026,Réfrigérateur 250L,Électroménager,5,1450000,7250000,Agnès Roger,Julie Bertrand
+01/05/2026,Climatiseur split 12000 BTU,Électroménager,2,2100000,4200000,André-Christophe Traore,Gérard-Frédéric Joly
+30/03/2026,Réfrigérateur 250L,Électroménager,2,1450000,2900000,Céline Vallet,Denis-Franck Ledoux
+01/04/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,Noël Pons,Julie Bertrand
+18/08/2026,"Ordinateur portable 15""",Informatique,4,1850000,7400000,Catherine Sauvage,Caroline Morin
+15/06/2026,Ventilateur sur pied,Divers,5,145000,725000,Geneviève de Petitjean,Chantal Hoareau
+19/03/2026,Groupe électrogène 2kVA,Divers,3,1250000,3750000,Madeleine du Weiss,Laurence Robert
+05/06/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,Antoine Voisin,Julie Bertrand
+30/06/2026,Climatiseur split 12000 BTU,Électroménager,1,2100000,2100000,Pénélope Torres,Marcel Leblanc
+20/08/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,Patrick Mendès,Alexandre Traore
+09/02/2026,Réfrigérateur 250L,Électroménager,3,1450000,4350000,Arnaude Faure,Caroline Morin
+17/09/2026,Table à manger 6 places,Mobilier,1,750000,750000,Claudine François,Victor du Vasseur
+22/01/2026,Smartphone Android 128Go,Téléphonie,5,620000,3100000,Guillaume Ferrand,Laurence Robert
+07/04/2026,Ventilateur sur pied,Divers,5,145000,725000,Marguerite-Monique Godard,Gabriel de Guilbert
+19/03/2026,"Ordinateur portable 15""",Informatique,5,1850000,9250000,Lucie du Bodin,Alexandre Traore
+13/02/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Philippine Perrin de Bègue,Marcel Leblanc
+07/05/2026,"Ordinateur portable 15""",Informatique,1,1850000,1850000,Gabrielle Perret-Sauvage,Brigitte Pelletier
+26/09/2026,Smartphone Android 128Go,Téléphonie,4,620000,2480000,Lucas Maillot-De Sousa,Marcel Leblanc
+10/07/2026,"Ordinateur portable 15""",Informatique,3,1850000,5550000,Patricia Chauveau,Alexandre Morin
+27/01/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Hugues Launay,Julie Bertrand
+03/02/2026,"Ordinateur portable 15""",Informatique,3,1850000,5550000,Joséphine Besson,Gabriel de Guilbert
+26/05/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,Zacharie Reynaud,Alexandre Morin
+18/03/2026,Imprimante multifonction,Informatique,5,480000,2400000,Benjamin Clément,Gabriel de Guilbert
+29/06/2026,Réfrigérateur 250L,Électroménager,2,1450000,2900000,Martin Pereira,Alexandre Morin
+08/03/2026,Groupe électrogène 2kVA,Divers,4,1250000,5000000,Christelle Berthelot,Denis-Franck Ledoux
+08/06/2026,Imprimante multifonction,Informatique,1,480000,480000,Théodore Guilbert,Marcel Leblanc
+07/03/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Margot Leconte-Rivière,Caroline Morin
+17/02/2026,"Ordinateur portable 15""",Informatique,5,1850000,9250000,Marthe Chartier,Caroline Morin
+05/07/2026,"Ordinateur portable 15""",Informatique,5,1850000,9250000,Anastasie Hervé,Alexandre Traore
+20/04/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Marcelle Benard de Verdier,Gabriel de Guilbert
+09/04/2026,Groupe électrogène 2kVA,Divers,4,1250000,5000000,Frédérique de la Descamps,Aurore Maury-Briand
+09/02/2026,Groupe électrogène 2kVA,Divers,2,1250000,2500000,Hélène Nicolas,Alexandre Morin
+17/09/2026,Table à manger 6 places,Mobilier,1,750000,750000,Michèle Noël,Julie Bertrand
+20/01/2026,Téléphone basique double SIM,Téléphonie,5,95000,475000,Sébastien-Frédéric Gilbert,Caroline Morin
+09/03/2026,Climatiseur split 12000 BTU,Électroménager,5,2100000,10500000,Alexandrie Raynaud-Descamps,Denis-Franck Ledoux
+03/04/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Alexandre-Éric Maillard,Chantal Hoareau
+26/03/2026,"Ordinateur portable 15""",Informatique,5,1850000,9250000,Jean Marty de Arnaud,Brigitte Pelletier
+06/07/2026,Smartphone Android 128Go,Téléphonie,4,620000,2480000,Roland Descamps,Caroline Morin
+26/05/2026,Imprimante multifonction,Informatique,4,480000,1920000,Antoinette Blanchard,Julie Bertrand
+30/04/2026,Imprimante multifonction,Informatique,4,480000,1920000,Benjamin Letellier,Marcel Leblanc
+10/04/2026,Climatiseur split 12000 BTU,Électroménager,4,2100000,8400000,Gabrielle du Humbert,Gabriel de Guilbert
+14/08/2026,"Ordinateur portable 15""",Informatique,5,1850000,9250000,Marianne Barbier,Laurence Robert
+15/09/2026,Canapé 3 places,Mobilier,4,980000,3920000,Marcelle Mace,Marcel Leblanc
+13/04/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Aurélie Roux,Julie Bertrand
+27/01/2026,"Ordinateur portable 15""",Informatique,3,1850000,5550000,Édouard Faivre,Caroline Morin
+22/02/2026,Smartphone Android 128Go,Téléphonie,3,620000,1860000,Anaïs Parent de Maillard,Brigitte Pelletier
+26/05/2026,Table à manger 6 places,Mobilier,1,750000,750000,Pauline Vallée,Gérard-Frédéric Joly
+19/08/2026,Imprimante multifonction,Informatique,3,480000,1440000,Simone Legros Le Fabre,Marcel Leblanc
+16/02/2026,Réfrigérateur 250L,Électroménager,4,1450000,5800000,Céline Le Perret,Aurore Maury-Briand
+14/01/2026,Canapé 3 places,Mobilier,3,980000,2940000,Guy Potier,Victor du Vasseur
+11/07/2026,Réfrigérateur 250L,Électroménager,5,1450000,7250000,Véronique-Manon Lambert,Aurore Maury-Briand
+11/07/2026,Smartphone Android 128Go,Téléphonie,1,620000,620000,Louis Joseph-Lefèvre,Aurore Maury-Briand
+21/06/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,François Hernandez,Julie Bertrand
+27/05/2026,Réfrigérateur 250L,Électroménager,1,1450000,1450000,Daniel Le Charpentier,Chantal Hoareau
+29/08/2026,Smartphone Android 128Go,Téléphonie,2,620000,1240000,Célina Robert,Laurence Robert
+10/01/2026,"Ordinateur portable 15""",Informatique,1,1850000,1850000,Philippine Roger,Alexandre Morin

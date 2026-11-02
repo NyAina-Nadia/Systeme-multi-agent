@@ -1,0 +1,14 @@
+PySide6
+pyqtgraph
+pandas
+numpy
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+bcrypt
+scikit-learn
+xgboost
+openpyxl
+reportlab
+requests
+pytest
